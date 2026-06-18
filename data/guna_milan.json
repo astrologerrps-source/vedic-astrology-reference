@@ -1,0 +1,56 @@
+{
+  "system": "Ashtakoota Guna Milan",
+  "total_points": 36,
+  "minimum_generally_acceptable": 18,
+  "note": "Points alone are not conclusive; doshas (e.g. Mangal, Bhakoot, Nadi) and the full chart must also be assessed.",
+  "kootas": [
+    {
+      "n": 1,
+      "koota": "Varna",
+      "max_points": 1,
+      "assesses": "Spiritual/ego compatibility and work nature"
+    },
+    {
+      "n": 2,
+      "koota": "Vashya",
+      "max_points": 2,
+      "assesses": "Mutual attraction and control"
+    },
+    {
+      "n": 3,
+      "koota": "Tara (Dina)",
+      "max_points": 3,
+      "assesses": "Birth-star compatibility, health and fortune"
+    },
+    {
+      "n": 4,
+      "koota": "Yoni",
+      "max_points": 4,
+      "assesses": "Physical/biological compatibility"
+    },
+    {
+      "n": 5,
+      "koota": "Graha Maitri",
+      "max_points": 5,
+      "assesses": "Mental compatibility and friendship of sign lords"
+    },
+    {
+      "n": 6,
+      "koota": "Gana",
+      "max_points": 6,
+      "assesses": "Temperament (Deva, Manushya, Rakshasa)"
+    },
+    {
+      "n": 7,
+      "koota": "Bhakoot",
+      "max_points": 7,
+      "assesses": "Emotional bond, love and family welfare"
+    },
+    {
+      "n": 8,
+      "koota": "Nadi",
+      "max_points": 8,
+      "assesses": "Health, genes and progeny"
+    }
+  ]
+}

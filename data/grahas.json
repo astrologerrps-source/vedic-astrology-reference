@@ -1,0 +1,115 @@
+{
+  "count": 9,
+  "note": "Classical natures are general; functional nature depends on the ascendant and the whole chart. Node exaltations vary by tradition.",
+  "grahas": [
+    {
+      "sanskrit": "Surya",
+      "english": "Sun",
+      "type": "Luminary",
+      "classical_nature": "Malefic",
+      "own_signs": [
+        "Leo"
+      ],
+      "exaltation": "Aries",
+      "debilitation": "Libra",
+      "karaka": "Soul, father, authority, vitality, health"
+    },
+    {
+      "sanskrit": "Chandra",
+      "english": "Moon",
+      "type": "Luminary",
+      "classical_nature": "Benefic (waxing) / Malefic (waning)",
+      "own_signs": [
+        "Cancer"
+      ],
+      "exaltation": "Taurus",
+      "debilitation": "Scorpio",
+      "karaka": "Mind, emotions, mother, nourishment"
+    },
+    {
+      "sanskrit": "Mangala",
+      "english": "Mars",
+      "type": "Planet",
+      "classical_nature": "Malefic",
+      "own_signs": [
+        "Aries",
+        "Scorpio"
+      ],
+      "exaltation": "Capricorn",
+      "debilitation": "Cancer",
+      "karaka": "Energy, courage, siblings, land, drive"
+    },
+    {
+      "sanskrit": "Budha",
+      "english": "Mercury",
+      "type": "Planet",
+      "classical_nature": "Benefic (by association)",
+      "own_signs": [
+        "Gemini",
+        "Virgo"
+      ],
+      "exaltation": "Virgo",
+      "debilitation": "Pisces",
+      "karaka": "Intellect, speech, communication, commerce"
+    },
+    {
+      "sanskrit": "Guru",
+      "english": "Jupiter",
+      "type": "Planet",
+      "classical_nature": "Benefic",
+      "own_signs": [
+        "Sagittarius",
+        "Pisces"
+      ],
+      "exaltation": "Cancer",
+      "debilitation": "Capricorn",
+      "karaka": "Wisdom, wealth, children, dharma, teachers"
+    },
+    {
+      "sanskrit": "Shukra",
+      "english": "Venus",
+      "type": "Planet",
+      "classical_nature": "Benefic",
+      "own_signs": [
+        "Taurus",
+        "Libra"
+      ],
+      "exaltation": "Pisces",
+      "debilitation": "Virgo",
+      "karaka": "Love, marriage, comforts, arts, vehicles"
+    },
+    {
+      "sanskrit": "Shani",
+      "english": "Saturn",
+      "type": "Planet",
+      "classical_nature": "Malefic",
+      "own_signs": [
+        "Capricorn",
+        "Aquarius"
+      ],
+      "exaltation": "Libra",
+      "debilitation": "Aries",
+      "karaka": "Discipline, longevity, karma, delay, labour"
+    },
+    {
+      "sanskrit": "Rahu",
+      "english": "Rahu (North Node)",
+      "type": "Shadow node",
+      "classical_nature": "Malefic",
+      "own_signs": [],
+      "exaltation": "Taurus (tradition-dependent)",
+      "debilitation": "Scorpio (tradition-dependent)",
+      "karaka": "Desire, ambition, foreign, obsession"
+    },
+    {
+      "sanskrit": "Ketu",
+      "english": "Ketu (South Node)",
+      "type": "Shadow node",
+      "classical_nature": "Malefic",
+      "own_signs": [],
+      "exaltation": "Scorpio (tradition-dependent)",
+      "debilitation": "Taurus (tradition-dependent)",
+      "karaka": "Detachment, moksha, past karma, spirituality"
+    }
+  ]
+}

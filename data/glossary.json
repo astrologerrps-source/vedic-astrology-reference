@@ -1,0 +1,61 @@
+{
+  "count": 14,
+  "glossary": [
+    {
+      "term": "Kundli",
+      "definition": "A Vedic birth chart mapping planetary positions at the exact time and place of birth."
+    },
+    {
+      "term": "Lagna",
+      "definition": "The ascendant — the zodiac sign rising on the eastern horizon at birth; the 1st house."
+    },
+    {
+      "term": "Rashi",
+      "definition": "A zodiac sign; also the Moon-sign in common usage."
+    },
+    {
+      "term": "Nakshatra",
+      "definition": "One of 27 lunar mansions, each spanning 13°20' of the zodiac."
+    },
+    {
+      "term": "Graha",
+      "definition": "A planet or node used in Jyotish (the nine grahas)."
+    },
+    {
+      "term": "Bhava",
+      "definition": "A house — one of twelve divisions of the chart governing areas of life."
+    },
+    {
+      "term": "Dasha",
+      "definition": "A planetary period that times when results manifest; Vimshottari is the most common system."
+    },
+    {
+      "term": "Gochar",
+      "definition": "Transit — the current movement of planets relative to the natal chart."
+    },
+    {
+      "term": "Yoga",
+      "definition": "A specific planetary combination producing a defined result."
+    },
+    {
+      "term": "Dosha",
+      "definition": "An affliction or imbalance in the chart (e.g. Mangal Dosha)."
+    },
+    {
+      "term": "Guna Milan",
+      "definition": "Ashtakoota compatibility scoring (out of 36) used in marriage matching."
+    },
+    {
+      "term": "Muhurat",
+      "definition": "An auspicious electional time chosen for an important activity."
+    },
+    {
+      "term": "Navamsa",
+      "definition": "The D9 divisional chart, used especially for marriage and inner strength of planets."
+    },
+    {
+      "term": "Panchanga",
+      "definition": "The Hindu almanac: tithi, vara, nakshatra, yoga and karana."
+    }
+  ]
+}

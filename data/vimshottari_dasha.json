@@ -1,0 +1,52 @@
+{
+  "system": "Vimshottari Dasha",
+  "total_years": 120,
+  "based_on": "Moon's nakshatra at birth",
+  "sequence": [
+    {
+      "order": 1,
+      "planet": "Ketu",
+      "years": 7
+    },
+    {
+      "order": 2,
+      "planet": "Venus",
+      "years": 20
+    },
+    {
+      "order": 3,
+      "planet": "Sun",
+      "years": 6
+    },
+    {
+      "order": 4,
+      "planet": "Moon",
+      "years": 10
+    },
+    {
+      "order": 5,
+      "planet": "Mars",
+      "years": 7
+    },
+    {
+      "order": 6,
+      "planet": "Rahu",
+      "years": 18
+    },
+    {
+      "order": 7,
+      "planet": "Jupiter",
+      "years": 16
+    },
+    {
+      "order": 8,
+      "planet": "Saturn",
+      "years": 19
+    },
+    {
+      "order": 9,
+      "planet": "Mercury",
+      "years": 17
+    }
+  ]
+}

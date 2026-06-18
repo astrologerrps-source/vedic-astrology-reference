@@ -1,0 +1,113 @@
+{
+  "count": 12,
+  "rashis": [
+    {
+      "n": 1,
+      "sanskrit": "Mesha",
+      "english": "Aries",
+      "lord": "Mars",
+      "element": "Fire",
+      "quality": "Movable",
+      "symbol": "Ram"
+    },
+    {
+      "n": 2,
+      "sanskrit": "Vrishabha",
+      "english": "Taurus",
+      "lord": "Venus",
+      "element": "Earth",
+      "quality": "Fixed",
+      "symbol": "Bull"
+    },
+    {
+      "n": 3,
+      "sanskrit": "Mithuna",
+      "english": "Gemini",
+      "lord": "Mercury",
+      "element": "Air",
+      "quality": "Dual",
+      "symbol": "Twins"
+    },
+    {
+      "n": 4,
+      "sanskrit": "Karka",
+      "english": "Cancer",
+      "lord": "Moon",
+      "element": "Water",
+      "quality": "Movable",
+      "symbol": "Crab"
+    },
+    {
+      "n": 5,
+      "sanskrit": "Simha",
+      "english": "Leo",
+      "lord": "Sun",
+      "element": "Fire",
+      "quality": "Fixed",
+      "symbol": "Lion"
+    },
+    {
+      "n": 6,
+      "sanskrit": "Kanya",
+      "english": "Virgo",
+      "lord": "Mercury",
+      "element": "Earth",
+      "quality": "Dual",
+      "symbol": "Maiden"
+    },
+    {
+      "n": 7,
+      "sanskrit": "Tula",
+      "english": "Libra",
+      "lord": "Venus",
+      "element": "Air",
+      "quality": "Movable",
+      "symbol": "Scales"
+    },
+    {
+      "n": 8,
+      "sanskrit": "Vrishchika",
+      "english": "Scorpio",
+      "lord": "Mars",
+      "element": "Water",
+      "quality": "Fixed",
+      "symbol": "Scorpion"
+    },
+    {
+      "n": 9,
+      "sanskrit": "Dhanu",
+      "english": "Sagittarius",
+      "lord": "Jupiter",
+      "element": "Fire",
+      "quality": "Dual",
+      "symbol": "Archer"
+    },
+    {
+      "n": 10,
+      "sanskrit": "Makara",
+      "english": "Capricorn",
+      "lord": "Saturn",
+      "element": "Earth",
+      "quality": "Movable",
+      "symbol": "Crocodile / Sea-goat"
+    },
+    {
+      "n": 11,
+      "sanskrit": "Kumbha",
+      "english": "Aquarius",
+      "lord": "Saturn",
+      "element": "Air",
+      "quality": "Fixed",
+      "symbol": "Water-bearer"
+    },
+    {
+      "n": 12,
+      "sanskrit": "Meena",
+      "english": "Pisces",
+      "lord": "Jupiter",
+      "element": "Water",
+      "quality": "Dual",
+      "symbol": "Fishes"
+    }
+  ]
+}

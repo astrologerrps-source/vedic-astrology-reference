@@ -1,0 +1,276 @@
+{
+  "count": 27,
+  "ruling_planet_system": "Vimshottari",
+  "nakshatras": [
+    {
+      "n": 1,
+      "name": "Ashwini",
+      "ruling_planet": "Ketu",
+      "deity": "Ashwini Kumaras",
+      "span": "13°20'",
+      "start": "0°00'",
+      "end": "13°20'",
+      "padas": 4
+    },
+    {
+      "n": 2,
+      "name": "Bharani",
+      "ruling_planet": "Venus",
+      "deity": "Yama",
+      "span": "13°20'",
+      "start": "13°20'",
+      "end": "26°40'",
+      "padas": 4
+    },
+    {
+      "n": 3,
+      "name": "Krittika",
+      "ruling_planet": "Sun",
+      "deity": "Agni",
+      "span": "13°20'",
+      "start": "26°40'",
+      "end": "40°00'",
+      "padas": 4
+    },
+    {
+      "n": 4,
+      "name": "Rohini",
+      "ruling_planet": "Moon",
+      "deity": "Brahma (Prajapati)",
+      "span": "13°20'",
+      "start": "40°00'",
+      "end": "53°20'",
+      "padas": 4
+    },
+    {
+      "n": 5,
+      "name": "Mrigashira",
+      "ruling_planet": "Mars",
+      "deity": "Soma",
+      "span": "13°20'",
+      "start": "53°20'",
+      "end": "66°40'",
+      "padas": 4
+    },
+    {
+      "n": 6,
+      "name": "Ardra",
+      "ruling_planet": "Rahu",
+      "deity": "Rudra",
+      "span": "13°20'",
+      "start": "66°40'",
+      "end": "80°00'",
+      "padas": 4
+    },
+    {
+      "n": 7,
+      "name": "Punarvasu",
+      "ruling_planet": "Jupiter",
+      "deity": "Aditi",
+      "span": "13°20'",
+      "start": "80°00'",
+      "end": "93°20'",
+      "padas": 4
+    },
+    {
+      "n": 8,
+      "name": "Pushya",
+      "ruling_planet": "Saturn",
+      "deity": "Brihaspati",
+      "span": "13°20'",
+      "start": "93°20'",
+      "end": "106°40'",
+      "padas": 4
+    },
+    {
+      "n": 9,
+      "name": "Ashlesha",
+      "ruling_planet": "Mercury",
+      "deity": "Nagas (Sarpa)",
+      "span": "13°20'",
+      "start": "106°40'",
+      "end": "120°00'",
+      "padas": 4
+    },
+    {
+      "n": 10,
+      "name": "Magha",
+      "ruling_planet": "Ketu",
+      "deity": "Pitris",
+      "span": "13°20'",
+      "start": "120°00'",
+      "end": "133°20'",
+      "padas": 4
+    },
+    {
+      "n": 11,
+      "name": "Purva Phalguni",
+      "ruling_planet": "Venus",
+      "deity": "Bhaga",
+      "span": "13°20'",
+      "start": "133°20'",
+      "end": "146°40'",
+      "padas": 4
+    },
+    {
+      "n": 12,
+      "name": "Uttara Phalguni",
+      "ruling_planet": "Sun",
+      "deity": "Aryaman",
+      "span": "13°20'",
+      "start": "146°40'",
+      "end": "160°00'",
+      "padas": 4
+    },
+    {
+      "n": 13,
+      "name": "Hasta",
+      "ruling_planet": "Moon",
+      "deity": "Savitar",
+      "span": "13°20'",
+      "start": "160°00'",
+      "end": "173°20'",
+      "padas": 4
+    },
+    {
+      "n": 14,
+      "name": "Chitra",
+      "ruling_planet": "Mars",
+      "deity": "Tvashtar",
+      "span": "13°20'",
+      "start": "173°20'",
+      "end": "186°40'",
+      "padas": 4
+    },
+    {
+      "n": 15,
+      "name": "Swati",
+      "ruling_planet": "Rahu",
+      "deity": "Vayu",
+      "span": "13°20'",
+      "start": "186°40'",
+      "end": "200°00'",
+      "padas": 4
+    },
+    {
+      "n": 16,
+      "name": "Vishakha",
+      "ruling_planet": "Jupiter",
+      "deity": "Indra-Agni",
+      "span": "13°20'",
+      "start": "200°00'",
+      "end": "213°20'",
+      "padas": 4
+    },
+    {
+      "n": 17,
+      "name": "Anuradha",
+      "ruling_planet": "Saturn",
+      "deity": "Mitra",
+      "span": "13°20'",
+      "start": "213°20'",
+      "end": "226°40'",
+      "padas": 4
+    },
+    {
+      "n": 18,
+      "name": "Jyeshtha",
+      "ruling_planet": "Mercury",
+      "deity": "Indra",
+      "span": "13°20'",
+      "start": "226°40'",
+      "end": "240°00'",
+      "padas": 4
+    },
+    {
+      "n": 19,
+      "name": "Mula",
+      "ruling_planet": "Ketu",
+      "deity": "Nirriti",
+      "span": "13°20'",
+      "start": "240°00'",
+      "end": "253°20'",
+      "padas": 4
+    },
+    {
+      "n": 20,
+      "name": "Purva Ashadha",
+      "ruling_planet": "Venus",
+      "deity": "Apas",
+      "span": "13°20'",
+      "start": "253°20'",
+      "end": "266°40'",
+      "padas": 4
+    },
+    {
+      "n": 21,
+      "name": "Uttara Ashadha",
+      "ruling_planet": "Sun",
+      "deity": "Vishvedevas",
+      "span": "13°20'",
+      "start": "266°40'",
+      "end": "280°00'",
+      "padas": 4
+    },
+    {
+      "n": 22,
+      "name": "Shravana",
+      "ruling_planet": "Moon",
+      "deity": "Vishnu",
+      "span": "13°20'",
+      "start": "280°00'",
+      "end": "293°20'",
+      "padas": 4
+    },
+    {
+      "n": 23,
+      "name": "Dhanishta",
+      "ruling_planet": "Mars",
+      "deity": "Vasus",
+      "span": "13°20'",
+      "start": "293°20'",
+      "end": "306°40'",
+      "padas": 4
+    },
+    {
+      "n": 24,
+      "name": "Shatabhisha",
+      "ruling_planet": "Rahu",
+      "deity": "Varuna",
+      "span": "13°20'",
+      "start": "306°40'",
+      "end": "320°00'",
+      "padas": 4
+    },
+    {
+      "n": 25,
+      "name": "Purva Bhadrapada",
+      "ruling_planet": "Jupiter",
+      "deity": "Aja Ekapada",
+      "span": "13°20'",
+      "start": "320°00'",
+      "end": "333°20'",
+      "padas": 4
+    },
+    {
+      "n": 26,
+      "name": "Uttara Bhadrapada",
+      "ruling_planet": "Saturn",
+      "deity": "Ahir Budhnya",
+      "span": "13°20'",
+      "start": "333°20'",
+      "end": "346°40'",
+      "padas": 4
+    },
+    {
+      "n": 27,
+      "name": "Revati",
+      "ruling_planet": "Mercury",
+      "deity": "Pushan",
+      "span": "13°20'",
+      "start": "346°40'",
+      "end": "360°00'",
+      "padas": 4
+    }
+  ]
+}
